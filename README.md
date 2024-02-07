@@ -1,7 +1,7 @@
 ## Requirements
 
-Docker Desktop for windows
-Docker for Ubuntu
+- Docker Desktop for windows
+- Docker for Ubuntu
 
 ## Steps
 
